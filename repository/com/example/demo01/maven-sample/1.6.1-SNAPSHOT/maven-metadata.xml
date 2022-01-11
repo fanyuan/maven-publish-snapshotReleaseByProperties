@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.example.demo01</groupId>
+  <artifactId>maven-sample</artifactId>
+  <version>1.6.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220111.053645</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20220111053645</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.6.1-20220111.053645-3</value>
+        <updated>20220111053645</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.6.1-20220111.053645-3</value>
+        <updated>20220111053645</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
