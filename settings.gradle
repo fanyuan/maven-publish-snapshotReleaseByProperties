@@ -17,6 +17,6 @@ dependencyResolutionManagement {
         }
     }
 }
-rootProject.name = "MavenDemo"
+rootProject.name = "snapshotReleaseByProperties"
 include ':app'
 include ':demo01'
